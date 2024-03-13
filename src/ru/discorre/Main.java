@@ -1,3 +1,5 @@
+package ru.discorre;
+
 import java.util.Scanner;
 
 public class Main {

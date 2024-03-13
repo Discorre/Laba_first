@@ -1,3 +1,5 @@
+package ru.discorre;
+
 public class Triangle {
     double side1;
     double side2;
